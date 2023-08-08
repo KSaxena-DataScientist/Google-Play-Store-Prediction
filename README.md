@@ -5,5 +5,5 @@ Today, 1.85 million different apps are available for users to download. Android 
 The data consists of 20 column and 10841 rows.
 
 Steps We Are Going to Follow
-Data Clearning
+Data Cleaning
 Exploratory Data Analysis
